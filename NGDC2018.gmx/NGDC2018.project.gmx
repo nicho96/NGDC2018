@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_title</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\s_wall</sprite>
     <sprite>sprites\s_light</sprite>
@@ -31,6 +33,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\bg_main_menu</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -97,9 +100,14 @@
       <object>objects\o_caster_parent</object>
       <object>objects\o_caster</object>
     </objects>
+    <objects name="Controllers">
+      <object>objects\o_menu_cont</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_init</room>
+    <room>rooms\r_menu</room>
+    <room>rooms\r_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
