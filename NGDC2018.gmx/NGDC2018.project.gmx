@@ -135,6 +135,8 @@
     <room>rooms\r_init</room>
     <room>rooms\r_menu</room>
     <room>rooms\r_test</room>
+    <room>rooms\r_level5</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
