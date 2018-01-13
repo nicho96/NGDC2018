@@ -221,6 +221,16 @@
     <instance objName="o_red_laser_tile_2" x="272" y="80" name="inst_3AA6A79B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_red_laser_tile_3" x="304" y="400" name="inst_070EEE14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_red_laser_tile_3" x="304" y="48" name="inst_04F55380" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="368" name="inst_CEA4F351" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="336" name="inst_8042C849" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="304" name="inst_D9D72937" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="272" name="inst_64451768" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="240" name="inst_D682E325" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="208" name="inst_10D8FFF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="176" name="inst_66FD3E36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="144" name="inst_40A0C9B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="112" name="inst_89EEF14A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_4" x="304" y="80" name="inst_3F427B9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

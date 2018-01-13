@@ -32,6 +32,7 @@
         <sprite>sprites\s_red_laser_tile_1</sprite>
         <sprite>sprites\s_red_laser_tile_2</sprite>
         <sprite>sprites\s_red_laser_tile_3</sprite>
+        <sprite>sprites\s_red_laser_tile_4</sprite>
         <sprite>sprites\s_yellow_laser_tile_1</sprite>
         <sprite>sprites\s_yellow_laser_tile_2</sprite>
         <sprite>sprites\s_yellow_laser_tile_3</sprite>
@@ -132,6 +133,7 @@
           <object>objects\o_red_laser_tile_1</object>
           <object>objects\o_red_laser_tile_2</object>
           <object>objects\o_red_laser_tile_3</object>
+          <object>objects\o_red_laser_tile_4</object>
           <object>objects\o_yellow_laser_tile_1</object>
           <object>objects\o_green_laser_tile_1</object>
           <object>objects\o_blue_laser_tile_1</object>

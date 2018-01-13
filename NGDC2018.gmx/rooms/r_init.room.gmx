@@ -10,11 +10,11 @@
   <persistent>0</persistent>
   <colour>15178409</colour>
   <showcolour>-1</showcolour>
-  <code>global.red_laser_active = true
-global.yellow_laser_active = true
-global.green_laser_active = true
-global.blue_laser_active = true
-global.purple_laser_active = true
+  <code>global.red_laser_active = false
+global.yellow_laser_active = false
+global.green_laser_active = false
+global.blue_laser_active = false
+global.purple_laser_active = false
 global.slide_speed = 6
 room_goto(r_menu)</code>
   <enableViews>-1</enableViews>
