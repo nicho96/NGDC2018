@@ -33,29 +33,45 @@ if(abs(vspd) > abs(hspd)){
     if(vspd < 0){
         facing_direction = 1
     }else{
-        facing_direction = 2
+        facing_direction = 3
     }
 }else{
     if(hspd < 0){
-        facing_direction = 3
-    }else{
         facing_direction = 4
+    }else{
+        facing_direction = 2
     }
 }
 
-//Push slide wall if near
 if(key_push){
-    if(facing_direction == 1 || facing_direction == 2){
+
+    rot = instance_place(x, y, o_redirect_rot)
+
+    //Push slide wall if near
+    if(facing_direction == 1 || facing_direction == 3){
         ver_sliding_wall = instance_place(x, y + sign(vspd) * 10, o_sliding_wall)
         if(ver_sliding_wall){
             ver_sliding_wall.slide_direction = facing_direction
         }
-    }else if(facing_direction == 3 || facing_direction == 4){
+    }else if(facing_direction == 2 || facing_direction == 4){
         hor_sliding_wall = instance_place(x + sign(hspd) * 10, y, o_sliding_wall)
         if(hor_sliding_wall){
             hor_sliding_wall.slide_direction = facing_direction
         }
     }
+    
+    if(rot){
+         //Rotate redirect block if near
+         rot.image_angle = (rot.image_angle - 90)
+         if(rot.image_angle < 0){
+            rot.image_angle = 270
+         }
+    }
+    
+    
 }
+
+
+
 
 handle_collisions()

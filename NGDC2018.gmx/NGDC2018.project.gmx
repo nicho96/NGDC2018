@@ -64,6 +64,12 @@
       <sprite>sprites\s_redirect_left</sprite>
       <sprite>sprites\s_redirect_up</sprite>
       <sprite>sprites\s_redirect</sprite>
+      <sprite>sprites\s_redirect_rot</sprite>
+    </sprites>
+    <sprites name="ground">
+      <sprite>sprites\s_light_dark_stone_1</sprite>
+      <sprite>sprites\s_light_dark_stone_2</sprite>
+      <sprite>sprites\s_light_gray_stone</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -156,6 +162,7 @@
         <object>objects\o_redirect_down</object>
         <object>objects\o_redirect_right</object>
         <object>objects\o_redirect</object>
+        <object>objects\o_redirect_rot</object>
       </objects>
     </objects>
     <objects name="entities">

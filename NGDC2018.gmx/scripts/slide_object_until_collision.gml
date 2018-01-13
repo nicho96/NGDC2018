@@ -13,15 +13,15 @@ if(slide_direction == 1){
 }
 
 if(slide_direction == 2){
-    vspd = global.slide_speed
+    hspd = global.slide_speed
 }
 
 if(slide_direction == 3){
-    hspd = -global.slide_speed
+    vspd = global.slide_speed
 }
 
 if(slide_direction == 4){
-    hspd = global.slide_speed
+    hspd = -global.slide_speed
 }
 
 
