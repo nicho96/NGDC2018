@@ -24,6 +24,15 @@ if(slide_direction == 4){
     hspd = global.slide_speed
 }
 
+
 if(hspd != 0 || vspd != 0){
-    handle_collisions()
+    //If wall is sliding and collides with player, kill the player
+    player = place_meeting(x + hspd, y + vspd, o_player)
+    if(player && slide_direction != 0){
+        player.is_falling = true
+    }else{
+        handle_collisions()
+    }
 }
+
+redirect_slide_object()

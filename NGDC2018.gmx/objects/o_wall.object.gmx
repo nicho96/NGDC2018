@@ -39,6 +39,7 @@ hitbox_height = 32
 
 is_falling = false
 falling_tick = 30
+slide_direction = 0
 
 </string>
           </argument>

@@ -30,6 +30,14 @@ if(hor_laser_tile && !hor_laser_tile.is_activated){
     xpos = hor_laser_tile.x
 }
 
+//Horizontal hole check
+hole = instance_place(xpos, y, o_hole)
+if(hole){
+    is_falling = true
+    xpos = hole.x
+}
+
+
 x = xpos
 
 //Vertical wall collision check
@@ -54,11 +62,18 @@ if(ver_laser_wall && ver_laser_wall.is_activated){
     slide_direction = 0
 }
 
-//Horizontal laser tile check
+//Vertical laser tile check
 ver_laser_tile = instance_place(x, ypos, o_laser_tile)
 if(ver_laser_tile && !ver_laser_tile.is_activated){
     is_falling = true
     ypos = ver_laser_tile.y
+}
+
+//Vertical hole check
+hole = instance_place(x, ypos, o_hole)
+if(hole){
+    is_falling = true
+    ypos = hole.y
 }
 
 y = ypos

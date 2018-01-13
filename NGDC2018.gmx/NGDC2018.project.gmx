@@ -32,6 +32,14 @@
       <sprite>sprites\s_hole_edge_reg</sprite>
       <sprite>sprites\s_hole_solo</sprite>
     </sprites>
+    <sprites name="redirect">
+      <sprite>sprites\s_redirect_down</sprite>
+      <sprite>sprites\s_redirect_right</sprite>
+      <sprite>sprites\s_redirect_left</sprite>
+      <sprite>sprites\s_redirect_up</sprite>
+      <sprite>sprites\s_redirect</sprite>
+    </sprites>
+    <sprite>sprites\sprite25</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -73,6 +81,7 @@
     <script>scripts\handle_laser_wall.gml</script>
     <script>scripts\handle_laser_tile.gml</script>
     <script>scripts\object_fall_and_destroy.gml</script>
+    <script>scripts\redirect_slide_object.gml</script>
     <script>scripts\slide_object_until_collision.gml</script>
   </scripts>
   <objects name="objects">
@@ -98,6 +107,13 @@
         <object>objects\o_hole</object>
         <object>objects\o_dummy_hole</object>
       </objects>
+      <objects name="redirect">
+        <object>objects\o_redirect_up</object>
+        <object>objects\o_redirect_left</object>
+        <object>objects\o_redirect_down</object>
+        <object>objects\o_redirect_right</object>
+        <object>objects\o_redirect</object>
+      </objects>
     </objects>
     <objects name="entities">
       <object>objects\o_entity</object>
@@ -111,6 +127,7 @@
       <object>objects\o_caster</object>
     </objects>
     <objects name="Controllers">
+      <object>objects\o_room_cont</object>
       <object>objects\o_menu_cont</object>
     </objects>
   </objects>
