@@ -8,8 +8,10 @@
   <sprites name="sprites">
     <sprite>sprites\s_wall</sprite>
     <sprite>sprites\s_light</sprite>
+    <sprite>sprites\s_hole</sprite>
     <sprite>sprites\s_player</sprite>
     <sprite>sprites\s_yellow_laser_empty</sprite>
+    <sprite>sprites\s_edge</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -56,6 +58,10 @@
       <object>objects\o_tile</object>
       <objects name="laser">
         <object>objects\o_yellow_laser_tile</object>
+      </objects>
+      <objects name="hole">
+        <object>objects\o_edge</object>
+        <object>objects\o_hole</object>
       </objects>
     </objects>
     <objects name="entities">
