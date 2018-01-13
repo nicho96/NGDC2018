@@ -9,7 +9,7 @@
     <sprite>sprites\s_wall</sprite>
     <sprite>sprites\s_light</sprite>
     <sprite>sprites\s_player</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\s_yellow_laser_empty</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -46,6 +46,7 @@
       <script>scripts\caster_set_height.gml</script>
     </scripts>
     <script>scripts\p_move.gml</script>
+    <script>scripts\handle_laser_tile.gml</script>
   </scripts>
   <objects name="objects">
     <objects name="tiles">
@@ -53,6 +54,9 @@
       <object>objects\o_wall</object>
       <object>objects\o_empty</object>
       <object>objects\o_tile</object>
+      <objects name="laser">
+        <object>objects\o_yellow_laser_tile</object>
+      </objects>
     </objects>
     <objects name="entities">
       <object>objects\o_entity</object>
