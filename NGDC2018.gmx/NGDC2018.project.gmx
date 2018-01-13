@@ -70,11 +70,6 @@
       <sprite>sprites\s_redirect</sprite>
       <sprite>sprites\s_redirect_rot</sprite>
     </sprites>
-    <sprites name="ground">
-      <sprite>sprites\s_light_dark_stone_1</sprite>
-      <sprite>sprites\s_light_dark_stone_2</sprite>
-      <sprite>sprites\s_light_gray_stone</sprite>
-    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -164,8 +159,13 @@
         </objects>
         <object>objects\o_yellow_laser_lever</object>
         <object>objects\o_green_laser_lever</object>
-        <object>objects\o_green_laser_plate</object>
-        <object>objects\o_yellow_laser_plate</object>
+        <objects name="plates">
+          <object>objects\o_red_laser_plate</object>
+          <object>objects\o_yellow_laser_plate</object>
+          <object>objects\o_green_laser_plate</object>
+          <object>objects\o_blue_laser_plate</object>
+          <object>objects\o_purple_laser_plate</object>
+        </objects>
       </objects>
       <objects name="hole">
         <object>objects\o_edge</object>
