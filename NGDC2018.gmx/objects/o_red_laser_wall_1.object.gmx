@@ -48,7 +48,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>is_activated = global.yellow_laser_active
+            <string>is_activated = global.red_laser_active
 handle_laser_wall()
 </string>
           </argument>

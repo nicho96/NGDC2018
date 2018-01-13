@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>light_init_point(256, c_purple)
+            <string>light_init_point(256, c_white)
+light_radius = 256
 
 </string>
           </argument>
