@@ -27,7 +27,7 @@ if(slide_direction == 4){
 
 if(hspd != 0 || vspd != 0){
     //If wall is sliding and collides with player, kill the player
-    player = place_meeting(x + hspd, y + vspd, o_player)
+    player = instance_place(x + hspd, y + vspd, o_player)
     if(player && slide_direction != 0){
         player.is_falling = true
     }else{

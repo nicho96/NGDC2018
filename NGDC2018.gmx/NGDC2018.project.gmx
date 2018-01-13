@@ -12,12 +12,20 @@
     <sprite>sprites\s_light</sprite>
     <sprite>sprites\s_player</sprite>
     <sprites name="lasers">
+      <sprite>sprites\s_purple_laser_wall_1</sprite>
+      <sprite>sprites\s_purple_laser_wall_2</sprite>
+      <sprite>sprites\s_green_laser_wall_1</sprite>
+      <sprite>sprites\s_green_laser_wall_2</sprite>
+      <sprite>sprites\s_red_laser_wall_1</sprite>
+      <sprite>sprites\s_red_laser_wall_2</sprite>
+      <sprite>sprites\s_blue_laser_wall_1</sprite>
+      <sprite>sprites\s_blue_laser_wall_2</sprite>
+      <sprite>sprites\s_yellow_laser_wall_1</sprite>
+      <sprite>sprites\s_yellow_laser_wall_2</sprite>
       <sprite>sprites\s_green_laser_tile</sprite>
-      <sprite>sprites\s_yellow_laser_plate</sprite>
-      <sprite>sprites\s_green_laser_wall</sprite>
       <sprite>sprites\s_yellow_laser_tile</sprite>
+      <sprite>sprites\s_yellow_laser_plate</sprite>
       <sprite>sprites\s_green_laser_plate</sprite>
-      <sprite>sprites\s_yellow_laser_wall</sprite>
       <sprite>sprites\s_green_switch</sprite>
       <sprite>sprites\s_yellow_switch</sprite>
     </sprites>
@@ -39,7 +47,6 @@
       <sprite>sprites\s_redirect_up</sprite>
       <sprite>sprites\s_redirect</sprite>
     </sprites>
-    <sprite>sprites\sprite25</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -91,12 +98,15 @@
       <object>objects\o_empty</object>
       <object>objects\o_tile</object>
       <objects name="laser">
-        <object>objects\o_yellow_laser_lever</object>
-        <object>objects\s_green_laser_lever</object>
-        <object>objects\o_yellow_laser_wall</object>
-        <object>objects\o_green_laser_wall</object>
-        <object>objects\o_green_laser_tile</object>
+        <object>objects\o_red_laser_wall_1</object>
+        <object>objects\o_red_laser_wall_2</object>
+        <object>objects\o_yellow_laser_wall_1</object>
+        <object>objects\o_yellow_laser_wall_2</object>
         <object>objects\o_yellow_laser_tile</object>
+        <object>objects\o_yellow_laser_lever</object>
+        <object>objects\o_green_laser_wall_1</object>
+        <object>objects\o_green_laser_tile</object>
+        <object>objects\o_green_laser_lever</object>
         <object>objects\o_laser_tile</object>
         <object>objects\o_laser_wall</object>
         <object>objects\o_green_laser_plate</object>
