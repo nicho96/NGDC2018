@@ -35,9 +35,9 @@ ypos = y + vspd
 hor_wall = instance_place(x + hspd, y, o_wall)
 if(hor_wall){
     if(hspd > 0){
-        xpos = hor_wall.x - sprite_width / 2
+        xpos = hor_wall.x - hor_wall.sprite_width / 2 - sprite_width / 2
     }else{
-        xpos = hor_wall.x + hor_wall.sprite_width + sprite_width / 2
+        xpos = hor_wall.x + hor_wall.sprite_width / 2 + sprite_width / 2
     }
 }
 
@@ -46,9 +46,9 @@ x = xpos
 ver_wall = instance_place(x, y + vspd, o_wall)
 if(ver_wall){
     if(vspd > 0){
-        ypos = ver_wall.y - sprite_height / 2
+        ypos = ver_wall.y - ver_wall.sprite_height / 2 - sprite_height / 2
     }else{
-        ypos = ver_wall.y + ver_wall.sprite_height + sprite_height / 2
+        ypos = ver_wall.y + ver_wall.sprite_height / 2 + sprite_height / 2
     }
 }
 
