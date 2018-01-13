@@ -12,6 +12,15 @@
     <sprite>sprites\s_player</sprite>
     <sprite>sprites\s_yellow_laser_empty</sprite>
     <sprite>sprites\s_edge</sprite>
+    <sprites name="Hole">
+      <sprite>sprites\s_hole_solo</sprite>
+      <sprite>sprites\s_corner_tl</sprite>
+      <sprite>sprites\s_corner_tr</sprite>
+      <sprite>sprites\s_corner_bl</sprite>
+      <sprite>sprites\s_corner_br</sprite>
+      <sprite>sprites\s_hole_edge_bot</sprite>
+      <sprite>sprites\s_hole_edge_reg</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
