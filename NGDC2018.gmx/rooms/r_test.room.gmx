@@ -143,42 +143,6 @@
     <instance objName="o_wall" x="16" y="400" name="inst_A7C2AB35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="144" y="224" name="inst_20A3FB6A" locked="0" code="" scaleX="6.96774196624756" scaleY="12.1290321350098" colour="4294967295" rotation="0"/>
     <instance objName="o_dummy_hole" x="304" y="224" name="inst_0CBCDBE2" locked="0" code="" scaleX="3.0625" scaleY="12.125" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="400" name="inst_02671585" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="400" name="inst_0AC03109" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="400" name="inst_BB5BE607" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="368" name="inst_F479B5A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="368" name="inst_D9F510CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="368" name="inst_9C2A8671" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="272" name="inst_0B3A6A33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="272" name="inst_8145C81E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="272" name="inst_DC2F4E9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="240" name="inst_F918BC44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="240" name="inst_02DCEC83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="240" name="inst_3125CB67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="144" name="inst_BFBEC1C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="144" name="inst_A43AACF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="144" name="inst_7493D96A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="272" y="112" name="inst_D41FB8C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="304" y="112" name="inst_57A123D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_tile" x="336" y="112" name="inst_17D45CF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="336" name="inst_C140A22C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="304" name="inst_02791A95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="336" name="inst_FDCA2D3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="304" name="inst_DFA09DD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="336" name="inst_2041CB18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="304" name="inst_F46DD5AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="208" name="inst_307AC66D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="208" name="inst_609B2719" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="208" name="inst_B78F2DEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="176" name="inst_5A07414F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="176" name="inst_3DA468D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="176" name="inst_011ED784" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="80" name="inst_0754A7C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="80" name="inst_D643805E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="80" name="inst_F5EF1F85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="272" y="48" name="inst_20B9C94B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="304" y="48" name="inst_519D9E3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="336" y="48" name="inst_8D4ADFC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_redirect_down" x="560" y="432" name="inst_562A9112" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_redirect_up" x="560" y="752" name="inst_CA32736A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_redirect_up" x="528" y="752" name="inst_68C33771" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -187,13 +151,76 @@
     <instance objName="o_sliding_wall" x="416" y="432" name="inst_139395F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_sliding_wall" x="560" y="448" name="inst_97B185B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_green_laser_plate" x="544" y="560" name="inst_D464FE09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="512" y="560" name="inst_425B88B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_yellow_laser_plate" x="544" y="528" name="inst_425B88B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_1" x="48" y="656" name="inst_A9976856" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_1" x="208" y="656" name="inst_15639FF0" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_2" x="80" y="656" name="inst_2BA9A1A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_2" x="112" y="656" name="inst_1BB73829" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_2" x="144" y="656" name="inst_08BBB579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_wall_2" x="176" y="656" name="inst_5CB9EB81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_lightmap" x="0" y="-16" name="inst_603F2352" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_caster" x="0" y="-16" name="inst_2D3CBE7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="296" y="361" name="inst_1760ADF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="297" y="264" name="inst_A7FA9E96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="297" y="168" name="inst_21154F1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="298" y="73" name="inst_F74CB0DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_1" x="208" y="624" name="inst_DA29BC92" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall" x="240" y="624" name="inst_6135887C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_2" x="176" y="624" name="inst_C27D09A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_2" x="144" y="624" name="inst_ABC073C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_2" x="112" y="624" name="inst_CD9FCB4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_2" x="80" y="624" name="inst_58A3740D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_wall_1" x="48" y="624" name="inst_035D1914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_1" x="48" y="688" name="inst_C1493E7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_1" x="208" y="688" name="inst_B1923CD0" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_1" x="48" y="720" name="inst_DF5D5622" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_1" x="208" y="720" name="inst_104D4D41" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_1" x="48" y="752" name="inst_96282047" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_1" x="208" y="752" name="inst_01627517" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_2" x="80" y="720" name="inst_4F6DB941" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_2" x="112" y="720" name="inst_9D46D92A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_2" x="176" y="720" name="inst_7548E1BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_blue_laser_wall_2" x="144" y="720" name="inst_E952A721" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_2" x="80" y="688" name="inst_2F1EC822" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_2" x="112" y="688" name="inst_8476FFDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_2" x="144" y="688" name="inst_696738E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_wall_2" x="176" y="688" name="inst_9AFAF6C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_2" x="80" y="752" name="inst_4DD1DA14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_2" x="112" y="752" name="inst_668D798F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_2" x="144" y="752" name="inst_FC53F94D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_purple_laser_wall_2" x="176" y="752" name="inst_64F8BFF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="75" y="653" name="inst_E2F6DAB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="175" y="651" name="inst_3E9074FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="177" y="715" name="inst_15CEFB80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_empty" x="75" y="718" name="inst_B13DBBBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_1" x="336" y="48" name="inst_2DAE9C53" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_1" x="272" y="400" name="inst_1696DFFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="368" name="inst_92914BC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="368" name="inst_CDC0BB2B" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="336" name="inst_C000A4C2" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="304" name="inst_8BEB51A6" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="272" name="inst_9A366F20" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="240" name="inst_D04A9669" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="208" name="inst_6E35130C" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="176" name="inst_57984A07" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="144" name="inst_385D73B7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="112" name="inst_24E19238" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="336" y="80" name="inst_424BBFDD" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_1" x="336" y="400" name="inst_7774F92B" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_1" x="272" y="48" name="inst_F5E06DF4" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="336" name="inst_071D6E50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="304" name="inst_AEDF4897" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="272" name="inst_41B5CF16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="240" name="inst_325F8080" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="208" name="inst_FF02A2EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="176" name="inst_FDE809B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="144" name="inst_98EDB197" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="144" name="inst_B36BB080" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="112" name="inst_3B5567CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="112" name="inst_CF1DCB5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_2" x="272" y="80" name="inst_3AA6A79B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_3" x="304" y="400" name="inst_070EEE14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_red_laser_tile_3" x="304" y="48" name="inst_04F55380" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

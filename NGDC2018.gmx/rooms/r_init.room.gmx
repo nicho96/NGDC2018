@@ -10,8 +10,11 @@
   <persistent>0</persistent>
   <colour>15178409</colour>
   <showcolour>-1</showcolour>
-  <code>global.yellow_laser_active = false
-global.green_laser_active = false
+  <code>global.red_laser_active = true
+global.yellow_laser_active = true
+global.green_laser_active = true
+global.blue_laser_active = true
+global.purple_laser_active = true
 global.slide_speed = 6
 room_goto(r_menu)</code>
   <enableViews>-1</enableViews>
@@ -83,10 +86,10 @@ room_goto(r_menu)</code>
     <instance objName="o_yellow_laser_plate" x="288" y="288" name="inst_5735C5DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_plate" x="352" y="288" name="inst_004D6999" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_yellow_laser_plate" x="416" y="288" name="inst_54657F8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="96" y="112" name="inst_D2D6320C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="128" y="112" name="inst_46D7B5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="128" y="144" name="inst_7253B395" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_tile" x="96" y="144" name="inst_BD7AB7FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_tile_1" x="96" y="112" name="inst_D2D6320C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_tile_1" x="128" y="112" name="inst_46D7B5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_tile_1" x="128" y="144" name="inst_7253B395" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_tile_1" x="96" y="144" name="inst_BD7AB7FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
