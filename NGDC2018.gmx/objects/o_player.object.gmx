@@ -36,7 +36,6 @@ falling_tick = 30
 
 light_init_point(256, c_blue)
 light_radius = 120
-
 //40 died 17 times
 </string>
           </argument>
