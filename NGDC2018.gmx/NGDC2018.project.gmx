@@ -13,8 +13,10 @@
     <sprite>sprites\s_edge</sprite>
     <sprites name="lasers">
       <sprite>sprites\s_green_laser_tile</sprite>
+      <sprite>sprites\s_yellow_laser_plate</sprite>
       <sprite>sprites\s_green_laser_wall</sprite>
       <sprite>sprites\s_yellow_laser_tile</sprite>
+      <sprite>sprites\s_green_laser_plate</sprite>
       <sprite>sprites\s_yellow_laser_wall</sprite>
       <sprite>sprites\s_green_switch</sprite>
       <sprite>sprites\s_yellow_switch</sprite>
@@ -54,9 +56,12 @@
       <script>scripts\caster_draw_debug.gml</script>
       <script>scripts\caster_set_height.gml</script>
     </scripts>
+    <script>scripts\handle_collisions.gml</script>
     <script>scripts\p_move.gml</script>
     <script>scripts\handle_laser_wall.gml</script>
     <script>scripts\handle_laser_tile.gml</script>
+    <script>scripts\object_fall_and_destroy.gml</script>
+    <script>scripts\slide_object_until_collision.gml</script>
   </scripts>
   <objects name="objects">
     <objects name="tiles">
@@ -71,16 +76,21 @@
         <object>objects\o_green_laser_wall</object>
         <object>objects\o_green_laser_tile</object>
         <object>objects\o_yellow_laser_tile</object>
+        <object>objects\o_laser_tile</object>
         <object>objects\o_laser_wall</object>
+        <object>objects\o_green_laser_plate</object>
+        <object>objects\o_yellow_laser_plate</object>
       </objects>
       <objects name="hole">
         <object>objects\o_edge</object>
         <object>objects\o_hole</object>
+        <object>objects\o_dummy_hole</object>
       </objects>
     </objects>
     <objects name="entities">
       <object>objects\o_entity</object>
       <object>objects\o_player</object>
+      <object>objects\o_sliding_wall</object>
     </objects>
     <objects name="light">
       <object>objects\o_light_parent</object>

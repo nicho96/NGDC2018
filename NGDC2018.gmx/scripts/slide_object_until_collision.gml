@@ -1,0 +1,29 @@
+/* 0 -> No Slide
+ * 1 -> Up Slide
+ * 2 -> Down Slide
+ * 3 -> Left Slide
+ * 4 -> Right Slide 
+ */
+ 
+hspd = 0
+vspd = 0 
+
+if(slide_direction == 1){
+    vspd = -global.slide_speed
+}
+
+if(slide_direction == 2){
+    vspd = global.slide_speed
+}
+
+if(slide_direction == 3){
+    hspd = -global.slide_speed
+}
+
+if(slide_direction == 4){
+    hspd = global.slide_speed
+}
+
+if(hspd != 0 || vspd != 0){
+    handle_collisions()
+}
