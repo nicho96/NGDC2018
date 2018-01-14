@@ -16,6 +16,25 @@ global.green_laser_active = false
 global.blue_laser_active = false
 global.purple_laser_active = false
 global.slide_speed = 6
+
+global.current_song = snd_1
+global.current_audio_index = 1
+global.audio_map = ds_map_create()
+global.audio_map[1] = snd_1
+global.audio_map[2] = snd_2
+global.audio_map[3] = snd_3
+global.audio_map[4] = snd_4
+global.audio_map[5] = snd_5
+global.audio_map[6] = snd_6
+global.audio_map[7] = snd_7
+global.audio_map[8] = snd_8
+global.audio_map[9] = snd_9
+global.audio_map[10] = snd_10
+global.audio_map[11] = snd_11
+global.audio_map[12] = snd_12
+
+
+
 room_goto(r_menu)</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>

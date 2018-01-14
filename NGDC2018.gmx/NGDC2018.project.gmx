@@ -5,6 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
+    <sound>sound\snd_1</sound>
+    <sound>sound\snd_2</sound>
+    <sound>sound\snd_3</sound>
+    <sound>sound\snd_4</sound>
+    <sound>sound\snd_5</sound>
+    <sound>sound\snd_6</sound>
+    <sound>sound\snd_7</sound>
+    <sound>sound\snd_8</sound>
+    <sound>sound\snd_9</sound>
+    <sound>sound\snd_10</sound>
+    <sound>sound\snd_11</sound>
+    <sound>sound\snd_12</sound>
     <sound>sound\snd_title</sound>
   </sounds>
   <sprites name="sprites">
@@ -73,6 +85,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+	<background>background\background2</background>
     <background>background\bg_main_menu</background>
   </backgrounds>
   <paths name="paths"/>
@@ -195,6 +208,7 @@
     <objects name="controllers">
       <object>objects\o_room_cont</object>
       <object>objects\o_menu_cont</object>
+      <object>objects\o_audio_cont</object>
     </objects>
   </objects>
   <rooms name="rooms">
@@ -203,6 +217,7 @@
     <room>rooms\r_test</room>
     <room>rooms\r_level5</room>
     <room>rooms\room5</room>
+	<room>rooms\rm_level_5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
