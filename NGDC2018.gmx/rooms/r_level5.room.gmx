@@ -149,15 +149,10 @@
     <instance objName="o_wall" x="432" y="464" name="inst_6775C4F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="432" y="496" name="inst_A60C140E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="464" y="496" name="inst_8E68FFFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="352" y="320" name="inst_34F2023A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="368" y="752" name="inst_78E4CC09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="400" y="752" name="inst_CDB8A6CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="432" y="752" name="inst_6F6CAA4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="464" y="752" name="inst_BA4F7238" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="512" y="544" name="inst_F332EE9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="576" y="512" name="inst_CF2A9A90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="704" y="512" name="inst_95AF2734" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="640" y="512" name="inst_7560AA35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="528" y="624" name="inst_7606D47A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="560" y="624" name="inst_E3DEE589" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="592" y="624" name="inst_A0117019" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -202,10 +197,10 @@
     <instance objName="o_wall" x="752" y="560" name="inst_BE6838AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="752" y="528" name="inst_CF48B35E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="752" y="496" name="inst_5E5915AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="480" y="480" name="inst_B893BD66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="608" y="512" name="inst_EACC8931" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="480" y="544" name="inst_B118DCFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="704" y="544" name="inst_E2A5CC54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="480" y="480" name="inst_B893BD66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="608" y="512" name="inst_EACC8931" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="480" y="544" name="inst_B118DCFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="704" y="544" name="inst_E2A5CC54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="464" y="432" name="inst_91043E7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="464" y="464" name="inst_0FD7005A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="464" y="400" name="inst_10CD1071" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -241,7 +236,7 @@
     <instance objName="o_wall" x="336" y="208" name="inst_803FE428" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="400" y="208" name="inst_42F49F59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="432" y="208" name="inst_B0E6B30E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="288" y="224" name="inst_F9D0716B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="288" y="224" name="inst_F9D0716B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_sliding_wall" x="432" y="240" name="inst_57E57526" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="752" y="208" name="inst_D1EE812B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall" x="752" y="240" name="inst_5B220121" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -258,9 +253,7 @@
     <instance objName="o_hole" x="688" y="176" name="inst_B6A8BCBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="720" y="176" name="inst_C73128B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hole" x="752" y="176" name="inst_CA62CEBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_green_laser_plate" x="48" y="304" name="inst_296BCE06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="112" y="304" name="inst_DDC337A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_yellow_laser_plate" x="48" y="624" name="inst_1B602DD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_green_laser_plate_2" x="48" y="304" name="inst_296BCE06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
