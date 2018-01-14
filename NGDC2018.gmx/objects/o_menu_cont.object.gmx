@@ -52,7 +52,7 @@
 
 if game_start{
     audio_stop_all()
-    room_goto(r_n1)
+    room_goto(r_n3)
 }
 </string>
           </argument>
